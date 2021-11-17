@@ -1,0 +1,126 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC139
+D Dual Decoder 1 of 4, Active low outputs
+K TTL DECOD4
+F http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf
+$ENDCMP
+#
+$CMP ATF20V8B-DIP24
+D Programmable Logic Array, DIP24
+K PAL PLD 20V8
+F https://www.mouser.com/datasheet/2/268/atmel_doc0407-1180469.pdf
+$ENDCMP
+#
+$CMP ATF22V10C-DIP24
+D Programmable Logic Array, DIP24
+K PAL PLD 22V10
+F https://www.microchip.com/en-us/product/ATF22V10C
+$ENDCMP
+#
+$CMP ATF22V10C-PLCC28
+D Programmable Logic Array, PLCC28
+K PAL PLD 22V10
+F https://www.microchip.com/en-us/product/ATF22V10C
+$ENDCMP
+#
+$CMP BA6162F
+D Reset IC with battery backup function, max voltage 7.0V, output CS/CSB on 4.2V or lower, switch to batter on 3.3V or lower, SOP-8
+K Reset IC battery backup supervisor
+F https://www.digchip.com/datasheets/parts/datasheet/406/BA6162F-pdf.php
+$ENDCMP
+#
+$CMP Battery_Cell
+D Single-cell battery
+K battery cell
+F ~
+$ENDCMP
+#
+$CMP CR2032-BS-6-1
+D Battery Holders, Clips & Contacts SMD RoHS
+F https://datasheet.lcsc.com/szlcsc/Q-J-CR2032-BS-6-1_C70377.pdf
+$ENDCMP
+#
+$CMP CartridgeConn_2Rows-64Pins
+D Sega Genesis Cartridge Connector, double row, 32 pins each
+K Sega Genesis
+F https://plutiedev.com/cartridge-slot
+$ENDCMP
+#
+$CMP CartridgeConsoleSlot_2Rows-64Pins
+D Sega Genesis Cartridge Connector, double row, 32 pins each
+K Sega Genesis
+F https://plutiedev.com/cartridge-slot
+$ENDCMP
+#
+$CMP CartridgeTopSlot_2Rows-64Pins
+D Sega Genesis Cartridge Connector, double row, 32 pins each
+K Sega Genesis
+F https://plutiedev.com/cartridge-slot
+$ENDCMP
+#
+$CMP ExpansionPortSlot_2Rows-60Pins
+D Sega Genesis Cartridge Connector, double row, 30 pins each
+K Sega Genesis
+F https://wiki.megadrive.org/index.php?title=Connectors
+$ENDCMP
+#
+$CMP FM1208S
+D 4096 bit(512 x 8bit) FRAM, 200ns read, 400ns write, DIP-24, SOP-24
+K RAM SRAM FRAM CMOS MEMORY
+F https://www.datasheets360.com/pdf/1882722053795902838
+$ENDCMP
+#
+$CMP HM628512-SOP32
+D 128K x 8 High-Speed CMOS Static RAM, 70/85ns, SOP-32
+K RAM SRAM CMOS MEMORY
+$ENDCMP
+#
+$CMP KM62256CLG
+D 32Kx8 bit Low Power CMOS Static RAM, 55/70ns, SOP-28
+K RAM SRAM CMOS MEMORY
+F https://www.futurlec.com/Datasheet/Memory/62256.pdf
+$ENDCMP
+#
+$CMP PAL16V8-DIP20
+D Programmable Logic Array, PLCC28
+K PAL PLD 20V8
+F https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/PAL/PALCE20V8DataSheet.ashx?la=en
+$ENDCMP
+#
+$CMP PAL20V8-PLCC28
+D Programmable Logic Array, PLCC28
+K PAL PLD 20V8
+F https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/PAL/PALCE20V8DataSheet.ashx?la=en
+$ENDCMP
+#
+$CMP SW_DP3T
+D Switch, three position, dual pole triple throw, 3 position switch, SP3T
+K switch dp3t ON-ON-ON
+F ~
+$ENDCMP
+#
+$CMP SW_DP3T_SS-3336S-02-L1
+D Switch, three position, dual pole triple throw, 3 position switch, DP3T
+K switch dp3t ON-ON-ON
+F https://datasheet.lcsc.com/lcsc/2003181908_XKB-Connectivity-SS-3336S-02-L2_C500059.pdf
+$ENDCMP
+#
+$CMP SW_DP3T_SS-3336S-02-L2
+D Switch, three position, dual pole triple throw, 3 position switch, DP3T
+K switch dp3t ON-ON-ON
+F https://datasheet.lcsc.com/lcsc/2003181908_XKB-Connectivity-SS-3336S-02-L2_C500059.pdf
+$ENDCMP
+#
+$CMP SW_DP3T_SS-3336S-02-L3
+D Switch, three position, dual pole triple throw, 3 position switch, DP3T
+K switch dp3t ON-ON-ON
+F https://datasheet.lcsc.com/lcsc/2003181908_XKB-Connectivity-SS-3336S-02-L2_C500059.pdf
+$ENDCMP
+#
+$CMP TC551001BPL_DIP32
+D 128K x 8 High-Speed CMOS Static RAM, 70/85ns, DIP-32
+K RAM SRAM CMOS MEMORY
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,57 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 27C160-DIP42
+D OTP EPROM 16 MiBit (2 Mi x 8 or 1 Mi x 16)
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+$CMP 27C160-SO44
+D OTP EPROM 16 MiBit (2 Mi x 8 or 1 Mi x 16)
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+$CMP SEGA_MPR-17812
+D 32X Chaotix (Japan) LoROM 16 MiBit
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+$CMP SEGA_MPR-17813
+D 32X Chaotix (Japan) HiROM 16 MiBit
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+$CMP SEGA_MPR-17930-F
+D 32X Stella Assult (Japan) ROM 16 MiBit
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+$CMP SEGA_MPR-17996-F
+D 32X Sangokushi IV (Japan) LoROM 16 MiBit
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+$CMP SEGA_MPR-17997-F
+D 32X Sangokushi IV (Japan) HiROM 16 MiBit
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+$CMP SEGA_MPR-18296-U
+D 32X Virtua Fighter (Japan) LoROM 16 MiBit
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+$CMP SEGA_MPR-18297-U
+D 32X Virtua Fighter (Japan) HiROM 16 MiBit
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+#End Doc Library

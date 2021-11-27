@@ -6,6 +6,90 @@ K TTL DECOD4
 F http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf
 $ENDCMP
 #
+$CMP ATF1502AS-xAx44
+D Microchip CPLD, 32 Macrocell, 5 V, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf
+$ENDCMP
+#
+$CMP ATF1502AS-xJx44
+D Microchip CPLD, 32 Macrocell, 5 V, PLCC-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf
+$ENDCMP
+#
+$CMP ATF1502ASL-xAx44
+D Microchip CPLD, 32 Macrocell, 5 V, Low Power, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf
+$ENDCMP
+#
+$CMP ATF1502ASL-xJx44
+D Microchip CPLD, 32 Macrocell, 5 V, Low Power, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf
+$ENDCMP
+#
+$CMP ATF1502ASV-xAx44
+D Microchip CPLD, 32 Macrocell, 3.3 V, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc1615.pdf
+$ENDCMP
+#
+$CMP ATF1502ASV-xJx44
+D Microchip CPLD, 32 Macrocell, 3.3 V, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc1615.pdf
+$ENDCMP
+#
+$CMP ATF1504AS-xAx44
+D Microchip CPLD, 64 Macrocell, 5 V, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf
+$ENDCMP
+#
+$CMP ATF1504AS-xJx44
+D Microchip CPLD, 64 Macrocell, 5 V, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf
+$ENDCMP
+#
+$CMP ATF1504ASL-xAx44
+D Microchip CPLD, 64 Macrocell, 5 V, Low Power, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf
+$ENDCMP
+#
+$CMP ATF1504ASL-xJx44
+D Microchip CPLD, 64 Macrocell, 5 V, Low Power, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf
+$ENDCMP
+#
+$CMP ATF1504ASV-xAx44
+D Microchip CPLD, 64 Macrocell, 3.3 V, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATF1504ASV-ATF1504ASVL-Data-Sheet-20006185A.pdf
+$ENDCMP
+#
+$CMP ATF1504ASV-xJx44
+D Microchip CPLD, 64 Macrocell, 3.3 V, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATF1504ASV-ATF1504ASVL-Data-Sheet-20006185A.pdf
+$ENDCMP
+#
+$CMP ATF1504ASVL-xAx44
+D Microchip CPLD, 32 Macrocell, 3.3 V, Low Power, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATF1504ASV-ATF1504ASVL-Data-Sheet-20006185A.pdf
+$ENDCMP
+#
+$CMP ATF1504ASVL-xJx44
+D Microchip CPLD, 32 Macrocell, 3.3 V, Low Power, TQFP-44
+K CPLD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATF1504ASV-ATF1504ASVL-Data-Sheet-20006185A.pdf
+$ENDCMP
+#
 $CMP ATF20V8B-DIP24
 D Programmable Logic Array, DIP24
 K PAL PLD 20V8

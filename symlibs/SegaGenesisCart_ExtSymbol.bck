@@ -6,6 +6,12 @@ K TTL DECOD4
 F http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf
 $ENDCMP
 #
+$CMP 93CxxC
+D Serial EEPROM, 93 Series, with ORG Pin, 5.0V, DIP-8/SOIC-8
+K EEPROM memory Microwire
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf
+$ENDCMP
+#
 $CMP ATF1502AS-xAx44
 D Microchip CPLD, 32 Macrocell, 5 V, TQFP-44
 K CPLD
@@ -40,6 +46,12 @@ $CMP ATF1502ASV-xJx44
 D Microchip CPLD, 32 Macrocell, 3.3 V, TQFP-44
 K CPLD
 F http://ww1.microchip.com/downloads/en/DeviceDoc/doc1615.pdf
+$ENDCMP
+#
+$CMP ATF1504AS-10JU84
+D Microchip CPLD, 64 Macrocell, 5 V, PLCC-84
+K CPLD
+F https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf
 $ENDCMP
 #
 $CMP ATF1504AS-xAx44
@@ -88,6 +100,30 @@ $CMP ATF1504ASVL-xJx44
 D Microchip CPLD, 32 Macrocell, 3.3 V, Low Power, TQFP-44
 K CPLD
 F http://ww1.microchip.com/downloads/en/DeviceDoc/ATF1504ASV-ATF1504ASVL-Data-Sheet-20006185A.pdf
+$ENDCMP
+#
+$CMP ATF1508AS-xJx84
+D Microchip CPLD, 128 Macrocell, 5 V, PLCC-84
+K CPLD
+F https://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf
+$ENDCMP
+#
+$CMP ATF1508ASL-xJx84
+D Microchip CPLD, 128 Macrocell, 5 V, Low Power, PLCC-84
+K CPLD
+F https://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf
+$ENDCMP
+#
+$CMP ATF1508ASV-xJx84
+D Microchip CPLD, 128 Macrocell, 3V-3.6V, PLCC-84
+K CPLD
+F http://ww1.microchip.com/downloads/en/devicedoc/doc1408.pdf
+$ENDCMP
+#
+$CMP ATF1508ASVL-xJx84
+D Microchip CPLD, 128 Macrocell, 3V-3.6V, Low Power, PLCC-84
+K CPLD
+F http://ww1.microchip.com/downloads/en/devicedoc/doc1408.pdf
 $ENDCMP
 #
 $CMP ATF20V8B-DIP24
@@ -155,6 +191,23 @@ K RAM SRAM FRAM CMOS MEMORY
 F https://www.datasheets360.com/pdf/1882722053795902838
 $ENDCMP
 #
+$CMP FM1808B-SG
+D 256k FRAM nonvolatile memory, SOIC-28
+K FRAM 5V Parallel
+F http://www.cypress.com/file/136521/download
+$ENDCMP
+#
+$CMP FM18W08-SG
+D 256k FRAM nonvolatile memory, SOIC-28
+K FRAM 2.7-5.5V Parallel
+F http://www.cypress.com/file/136521/download
+$ENDCMP
+#
+$CMP HM6116-DIP24
+D 2K x 8 High-Speed CMOS Static RAM, 70/85ns, DIP-32
+K RAM SRAM CMOS MEMORY
+$ENDCMP
+#
 $CMP HM628512-SOP32
 D 128K x 8 High-Speed CMOS Static RAM, 70/85ns, SOP-32
 K RAM SRAM CMOS MEMORY
@@ -205,6 +258,18 @@ $ENDCMP
 $CMP TC551001BPL_DIP32
 D 128K x 8 High-Speed CMOS Static RAM, 70/85ns, DIP-32
 K RAM SRAM CMOS MEMORY
+$ENDCMP
+#
+$CMP UT6264KC-DIP28
+D 8Kx8 bit Low Power CMOS Static RAM, 55/70ns, DIP-28
+K RAM SRAM CMOS MEMORY
+F https://www.digchip.com/datasheets/parts/datasheet/505/UT6264C-pdf.php
+$ENDCMP
+#
+$CMP uPD43256AC-DIP28
+D 32Kx8 bit Low Power CMOS Static RAM, 55/70ns, DIP-28
+K RAM SRAM CMOS MEMORY
+F https://www.futurlec.com/Memory/43256-10L.shtml
 $ENDCMP
 #
 #End Doc Library

@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 27C080-DIP32
+D OTP EPROM 8 MiBit (1 Mi x 8)
+K OTP EPROM 8MiBit
+F http://ww1.microchip.com/downloads/en/devicedoc/doc0360.pdf
+$ENDCMP
+#
 $CMP 27C160-DIP42
 D OTP EPROM 16 MiBit (2 Mi x 8 or 1 Mi x 16)
 K OTP EPROM 16MiBit
@@ -8,6 +14,35 @@ $ENDCMP
 #
 $CMP 27C160-SO44
 D OTP EPROM 16 MiBit (2 Mi x 8 or 1 Mi x 16)
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+$CMP 29F016-SO44
+D OTP EPROM 16 MiBit (2 Mi x 8)
+K OTP EPROM 16MiBit
+$ENDCMP
+#
+$CMP AM29F016
+D FLASH ROM Uniform 16 MiBit (2 Mi x 8)
+K FLASH ROM 16MiBit 5V
+F https://www.digchip.com/datasheets/parts/datasheet/014/AM29F016-pdf.php
+$ENDCMP
+#
+$CMP MX29F016
+D FLASH ROM Uniform 16 MiBit (2 Mi x 8)
+K FLASH ROM 16MiBit 5V
+F https://www.digchip.com/datasheets/parts/datasheet/272/29F016-12-pdf.php
+$ENDCMP
+#
+$CMP SEGA_MPR-16263_W43
+D MD Sonic 3 (USA) ROM 16 MiBit CRC32:9BC192CE PCB:171-6656A
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+$CMP SEGA_MPR-16342-S
+D MD Sonic 3 (Europe) ROM 16 MiBit CRC32:6A632503 PCB:171-6658A
 K OTP EPROM 16MiBit
 F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
 $ENDCMP
@@ -50,6 +85,12 @@ $ENDCMP
 #
 $CMP SEGA_MPR-18297-U
 D 32X Virtua Fighter (Japan) HiROM 16 MiBit
+K OTP EPROM 16MiBit
+F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
+$ENDCMP
+#
+$CMP WELL_26624D-1
+D WuKongWaiZhuan Original Cart ROM(Pin compatible to 27C160-DIP42)
 K OTP EPROM 16MiBit
 F https://www.digchip.com/datasheets/parts/datasheet/456/M27C160-pdf.php
 $ENDCMP
